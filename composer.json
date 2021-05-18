@@ -1,0 +1,20 @@
+{
+  "authors": [
+    {
+      "name": "Yurii Postnikov",
+      "email": "m.yuri-postnikov@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  },
+  "description": "DDD example",
+  "name": "ypostnikov/gazpromearea",
+  "require": {
+    "php": ">=7.4.0",
+    "phpunit/phpunit": "^9.5"
+  },
+  "type": "project"
+}
